@@ -21,13 +21,6 @@ int main(int argc, const char * argv[]) {
     
     // declare another variable of type float
     float cookingTime;
- 
-
-
-
-	// ;alsdjf;a lskdjf;lasjkdf; lajsd;flkja s;dlfkja;sldkfja;slkdjf ;lkasj dl;fkj 
-
-
    
     //Calculate the cooking time and store it in the variable
     // In this case, '*' means "multipled by'
